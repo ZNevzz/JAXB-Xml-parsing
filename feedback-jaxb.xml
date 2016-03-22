@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:xmlDatabase xmlns:ns2="model">
+    <feedbacks>
+        <Feedback year="2016">
+            <companies>
+                <Company companyId="001">
+                    <companyName>MS</companyName>
+                    <users>
+                        <User username="7053" userRole="student">
+                            <userBranch>COMPS</userBranch>
+                            <feedback>very good</feedback>
+                        </User>
+                        <User username="7059" userRole="student">
+                            <userBranch>COMPS</userBranch>
+                            <feedback>Not that good</feedback>
+                        </User>
+                        <User username="7058" userRole="student">
+                            <userBranch>COMPS</userBranch>
+                            <feedback>very good</feedback>
+                        </User>
+                        <User username="7059" userRole="student">
+                            <userBranch>IT</userBranch>
+                            <feedback> that good</feedback>
+                        </User>
+                    </users>
+                </Company>
+                <Company companyId="002">
+                    <companyName>JP</companyName>
+                    <users>
+                        <User username="7053" userRole="student">
+                            <userBranch>COMPS</userBranch>
+                            <feedback>very good</feedback>
+                        </User>
+                        <User username="7059" userRole="student">
+                            <userBranch>COMPS</userBranch>
+                            <feedback>Not that good</feedback>
+                        </User>
+                        <User username="7058" userRole="student">
+                            <userBranch>COMPS</userBranch>
+                            <feedback>very good</feedback>
+                        </User>
+                        <User username="7059" userRole="student">
+                            <userBranch>IT</userBranch>
+                            <feedback> that good</feedback>
+                        </User>
+                    </users>
+                </Company>
+            </companies>
+        </Feedback>
+    </feedbacks>
+</ns2:xmlDatabase>
